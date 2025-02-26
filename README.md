@@ -17,7 +17,6 @@ To push its boundaries, I trained the model on a **custom dataset of 4,000 image
 
 ## Results
 ### YOLOv8 Detection Results
-![YOLOv8 Detection Results](yolo_sample_results/results.jpeg)
 ![results](https://github.com/user-attachments/assets/6318bab2-a396-4b66-a077-4edfc067e0d4)
 
 
