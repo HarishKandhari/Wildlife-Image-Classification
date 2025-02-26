@@ -1,3 +1,4 @@
+# Wildlife Image Classification 
 # Fine-Tuning YOLOv8 Project
 
 This project focuses on fine-tuning the YOLOv8 model to expand its recognition capabilities for wildlife species. The base model initially recognized common animals like `{'bird', 'cat', 'dog', 'horse', 'sheep', 'cow', 'elephant', 'bear', 'zebra', 'giraffe'}`.  
